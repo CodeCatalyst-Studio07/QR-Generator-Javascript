@@ -1,3 +1,4 @@
 # QR-Generator-Javascript
 
-https://www.youtube.com/@CodeCatalyst-Studio07
+Watch complete video here...
+https://www.youtube.com/watch?v=DyLMYnf6N78
